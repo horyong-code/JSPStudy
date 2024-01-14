@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- springBeans.xml -->
+<!-- 스프링 (객체 미리 생성 / 준비) -->
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+        
+<beans>
+	<!-- 객체 생성 (new) -->
+	<bean id="msgBean" class="com.itwillbs.ex.MsgBeanImpl"/>
+</beans>

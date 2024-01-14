@@ -1,0 +1,7 @@
+[
+	{"id" : "admin", "pw" : "1234", "email" : "admin@admin.com"},
+	{"id" : "user0", "pw" : "1234", "email" : "user0@admin.com"},
+	{"id" : "user1", "pw" : "1234", "email" : "user1@admin.com"},
+	{"id" : "user2", "pw" : "1234", "email" : "user2@admin.com"},
+	{"id" : "user3", "pw" : "1234", "email" : "user3@admin.com"}
+]
